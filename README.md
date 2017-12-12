@@ -9,7 +9,7 @@ The analysis points out that the ruling political party cannot be directly linke
 
 Motivation
 -----------------
-Mexico is widely regarded as one of the most dangerous countries for journalists, even comparing to countries in a state of war. Added to that, the mexican government is also famous for being corrupt and untrustworthy, either by bribing the media or by threating it. This has happened since the 1910s, and the involvement of Mexico in illegal drug traffic has only added to the dangers the journalists face.
+Mexico is widely regarded as one of the most dangerous countries for journalists<sup>[1]</sup>, even comparing to countries in a state of war. Added to that, the mexican government is also famous for being corrupt and untrustworthy, either by bribing the media or by threatening it. This has happened since the 1910s<sup>[1]</sup>, and the involvement of Mexico in illegal drug traffic has only added to the dangers the journalists face.
 
 Since the mexican government has been known to bride or to threaten journalists, I wanted to get actual data that could show a correlation between the ruling political parties of the past and the amount of violence towards media workers. This could help the mexican citizens to make a decision before the presidential election of 2018.
 
@@ -71,7 +71,7 @@ Conclusions
 
 Practicing journalism in Mexico has been, and still is, a dangerous activity. Compared against other countries, we can see the relative dangerous situation that journalists located in Mexico experience every day. A change  in the mexican political status quo did not solve the problem, in fact, it appeared to have increased it. This could mean that just changing the political party in power is not enough and that serious strategic changes in security, transparency and drug-related politics need to be done in order to ensure the safety of the journalists and of the mexican citizens in general.
 
-The war on drugs military campaign that started in 2006 was one of the main triggers for the increased amount in violence during the late 2000s. Drug cartels fought against the military and against each other for the control of the territories. However, that does not mean that journalists did not experience attacks before the war on drugs or that they will not experience them in the future. It is unknown how many bribes or threats the journalists receive from corrupt officials or from criminal organizations, so these findings should not be regarded as definitive. 
+The war on drugs military campaign that started in 2006 was one of the main triggers for the increased amount in violence during the late 2000s<sup>[2]</sup>. Drug cartels fought against the military and against each other for the control of the territories. However, that does not mean that journalists did not experience attacks before the war on drugs or that they will not experience them in the future. It is unknown how many bribes or threats the journalists receive from corrupt officials or from criminal organizations, so these findings should not be regarded as definitive. 
 
 The geo-political and socio-economic situation of each country is also a complex subject that cannot be fully grasped using such a small set of data. For these reasons, a more complete analysis should be conducted to safely identify the possible correlation between a country ruler and the acts of violence towards the media.
 
@@ -80,15 +80,7 @@ The geo-political and socio-economic situation of each country is also a complex
 References
 ----------
 
- 1. Timeline of the Mexican Drug War. (2017, December 4). In Wikipedia, The Free Encyclopedia. Retrieved
-04:52, December 9, 2017, from https://en.wikipedia.org/w/index.php?title=Timeline_of_the_Mexican_Drug_War&oldid=813681343
- 2. List of Presidents of the United States. (2017, December 7). In Wikipedia, The Free Encyclopedia.
-Retrieved 05:09, December 8, 2017, from
-https://en.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&oldid=814280717
- 3. Mexican Drug War. (2017, December 4). In Wikipedia, The Free Encyclopedia. Retrieved 04:52,
-December 9, 2017, from
-https://en.wikipedia.org/w/index.php?title=Mexican_Drug_War&oldid=813724408
- 4. List of journalists and media workers killed in Mexico. (2017, November 28). In Wikipedia, The Free
-Encyclopedia. Retrieved 17:38, December 9, 2017, from
-https://en.wikipedia.org/w/index.php?title=List_of_journalists_and_media_workers_killed_in_Mexico&old
-id=812565094
+ 1. List of journalists and media workers killed in Mexico. (2017, November 28). In Wikipedia, The Free Encyclopedia. Retrieved 17:38, December 9, 2017, from https://en.wikipedia.org/w/index.php?title=List_of_journalists_and_media_workers_killed_in_Mexico&oldid=812565094
+ 2. Timeline of the Mexican Drug War. (2017, December 4). In Wikipedia, The Free Encyclopedia. Retrieved 04:52, December 9, 2017, from https://en.wikipedia.org/w/index.php?title=Timeline_of_the_Mexican_Drug_War&oldid=813681343
+ 3. Mexican Drug War. (2017, December 4). In Wikipedia, The Free Encyclopedia. Retrieved 04:52, December 9, 2017, from https://en.wikipedia.org/w/index.php?title=Mexican_Drug_War&oldid=813724408
+ 4. List of Presidents of the United States. (2017, December 7). In Wikipedia, The Free Encyclopedia. Retrieved 05:09, December 8, 2017, from https://en.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&oldid=814280717
